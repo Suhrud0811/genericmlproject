@@ -135,11 +135,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+notebook/
+.vscode/
 # Spyder project settings
 .spyderproject
 .spyproject
-
+artifacts/
 # Rope project settings
 .ropeproject
 
