@@ -146,7 +146,7 @@ artifacts/
 
 # mkdocs documentation
 /site
-
+catboost_info/
 # mypy
 .mypy_cache/
 .dmypy.json
